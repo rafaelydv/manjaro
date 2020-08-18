@@ -4,4 +4,4 @@ pacman -S htop \
 	  vim \
 	  wget \
 	  screenfetch \
-	  NetworkManager
+	  networkmanager
