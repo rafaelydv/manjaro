@@ -18,8 +18,8 @@ pacman -S xorg-server \
 	  xfce4-pulseaudio-plugin \
 	  xfce4-power-manager \
 	  xfce4-notes-plugin \
+	  xfce4-terminal \
 	  xfdesktop \
-	  terminator \
 	  gvfs-smb \
 	  p7zip \
 	  unrar \
