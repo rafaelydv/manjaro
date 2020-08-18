@@ -20,6 +20,8 @@ pacman -S xorg-server \
 	  xfce4-notes-plugin \
 	  xfce4-terminal \
 	  xfdesktop \
+	  manjaro-settings-manager \
+	  pamac-gtk
 	  gvfs-smb \
 	  p7zip \
 	  unrar \
